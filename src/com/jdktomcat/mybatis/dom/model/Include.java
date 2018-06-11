@@ -1,0 +1,20 @@
+package com.jdktomcat.mybatis.dom.model;
+
+import com.intellij.psi.xml.XmlTag;
+import com.intellij.util.xml.Attribute;
+import com.intellij.util.xml.Convert;
+import com.intellij.util.xml.DomElement;
+import com.intellij.util.xml.GenericAttributeValue;
+import com.jdktomcat.mybatis.dom.converter.SqlConverter;
+import com.jdktomcat.mybatis.dom.converter.SqlConverter;
+
+/**
+ * @author 汤旗
+ */
+public interface Include extends DomElement {
+
+  @Attribute("refid")
+  @Convert(SqlConverter.class)
+  public GenericAttributeValue<XmlTag> getRefId();
+
+}
