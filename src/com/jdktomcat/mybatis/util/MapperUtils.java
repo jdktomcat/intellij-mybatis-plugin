@@ -187,10 +187,10 @@ public final class MapperUtils {
                                               @NotNull Processor<com.jdktomcat.mybatis.dom.model.Package> processor) {
     for (Configuration conf : getMybatisConfigurations(project)) {
       for (TypeAliases tas : conf.getTypeAliases()) {
-        for (com.jdktomcat.mybatis.dom.model.Package pkg : tas.getPackages()) {
-          if (!processor.process(pkg)) {
-            return;
-          }
+        for (Package pkg : tas.getPackages()) {
+//          if (!processor.process(pkg)) {
+//            return;
+//          }
         }
       }
     }
