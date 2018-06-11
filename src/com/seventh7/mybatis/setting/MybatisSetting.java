@@ -1,33 +1,27 @@
 package com.seventh7.mybatis.setting;
 
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
-
 import com.intellij.openapi.components.PersistentStateComponent;
 import com.intellij.openapi.components.ServiceManager;
 import com.intellij.openapi.components.State;
 import com.intellij.openapi.components.Storage;
 import com.seventh7.mybatis.generate.GenerateModel;
 import com.seventh7.mybatis.generate.StatementGenerator;
-
 import org.jdom.Element;
 import org.jetbrains.annotations.Nullable;
 
 import java.lang.reflect.Type;
 import java.util.Set;
 
-import static com.seventh7.mybatis.generate.StatementGenerator.DELETE_GENERATOR;
-import static com.seventh7.mybatis.generate.StatementGenerator.INSERT_GENERATOR;
-import static com.seventh7.mybatis.generate.StatementGenerator.SELECT_GENERATOR;
-import static com.seventh7.mybatis.generate.StatementGenerator.UPDATE_GENERATOR;
+import static com.seventh7.mybatis.generate.StatementGenerator.*;
 
 /**
  * @author yanglin
  */
 @State(
     name = "MybatisSettings",
-    storages = @Storage(id = "other", file = "$APP_CONFIG$/mybatis.xml"))
+    storages = @Storage(value = "other", file = "$APP_CONFIG$/mybatis.xml"))
 public class MybatisSetting implements PersistentStateComponent<Element> {
 
   private GenerateModel statementGenerateModel;

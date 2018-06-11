@@ -11,7 +11,6 @@ import com.intellij.psi.PsiFile;
 import com.intellij.psi.impl.source.tree.injected.InjectedLanguageUtil;
 import com.intellij.sql.psi.SqlFile;
 import com.seventh7.mybatis.util.DomUtils;
-
 import org.jetbrains.annotations.NotNull;
 
 /**

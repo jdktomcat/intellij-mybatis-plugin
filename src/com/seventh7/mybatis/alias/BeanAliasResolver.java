@@ -1,7 +1,6 @@
 package com.seventh7.mybatis.alias;
 
 import com.google.common.collect.Sets;
-
 import com.intellij.openapi.module.Module;
 import com.intellij.openapi.module.ModuleManager;
 import com.intellij.openapi.project.Project;
@@ -11,7 +10,6 @@ import com.intellij.spring.SpringManager;
 import com.intellij.spring.model.SpringBeanPointer;
 import com.intellij.spring.model.utils.SpringPropertyUtils;
 import com.intellij.spring.model.xml.beans.SpringPropertyDefinition;
-
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
@@ -46,7 +44,7 @@ public class BeanAliasResolver extends PackageAliasResolver{
   }
 
   private void addPackages(Set<String> res, CommonSpringModel springModel) {
-    for (SpringBeanPointer springBaseBeanPointer : springModel.findBeansByPsiClassWithInheritance(MAPPER_ALIAS_PACKAGE_CLASS)) {
+    for (SpringBeanPointer springBaseBeanPointer : springModel.getAllDomBeans()) {
       SpringPropertyDefinition basePackages = SpringPropertyUtils.findPropertyByName(springBaseBeanPointer.getSpringBean(), MAPPER_ALIAS_PROPERTY);
       if (basePackages != null) {
         final String value = basePackages.getValueElement().getStringValue();
