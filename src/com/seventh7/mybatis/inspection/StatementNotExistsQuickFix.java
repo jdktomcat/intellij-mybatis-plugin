@@ -8,7 +8,7 @@ import com.seventh7.mybatis.generate.StatementGenerator;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class StatementNotExistsQuickFix extends GenericQuickFix {
 

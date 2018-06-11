@@ -8,7 +8,7 @@ import com.intellij.util.xml.GenericAttributeValue;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface TypeAlias extends DomElement {
 

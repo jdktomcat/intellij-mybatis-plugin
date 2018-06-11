@@ -1,7 +1,7 @@
 package com.seventh7.mybatis.ui;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface ExecutableListener {
 

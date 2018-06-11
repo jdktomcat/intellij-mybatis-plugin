@@ -15,7 +15,7 @@ import java.util.Collection;
 import java.util.Set;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class PackageAliasResolver extends AliasResolver{
 

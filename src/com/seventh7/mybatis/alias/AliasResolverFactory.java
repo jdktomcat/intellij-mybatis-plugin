@@ -5,7 +5,7 @@ import com.intellij.openapi.project.Project;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class AliasResolverFactory {
 

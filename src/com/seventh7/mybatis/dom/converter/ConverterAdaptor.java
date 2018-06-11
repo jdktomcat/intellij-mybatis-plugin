@@ -11,7 +11,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class ConverterAdaptor<T> extends ResolvingConverter<T> {
 

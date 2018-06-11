@@ -18,7 +18,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class AliasFacade {
 

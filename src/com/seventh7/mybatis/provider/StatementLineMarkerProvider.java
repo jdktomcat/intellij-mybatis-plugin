@@ -24,7 +24,7 @@ import org.jetbrains.annotations.NotNull;
 import javax.swing.*;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class StatementLineMarkerProvider extends SimpleLineMarkerProvider<XmlTag, PsiMethod>{
 

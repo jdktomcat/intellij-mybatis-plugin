@@ -38,7 +38,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class GenerateMapperIntention extends GenericIntention {
 

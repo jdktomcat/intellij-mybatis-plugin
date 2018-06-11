@@ -2,7 +2,7 @@
     <id>com.seventh7.plugin.mybatis</id>
     <name>MyBatis plugin</name>
     <version>2.01</version>
-    <vendor email="insist.day@gmail.com" url="https://github.com/seventh7">Yanglin</vendor>
+    <vendor email="insist.day@gmail.com" url="https://github.com/seventh7">汤旗</vendor>
 
     <description><![CDATA[
           Plugin for mybatis <br/>

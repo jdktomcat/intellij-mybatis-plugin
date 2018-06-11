@@ -6,7 +6,7 @@ import com.intellij.ide.fileTemplates.FileTemplateGroupDescriptorFactory;
 import com.seventh7.mybatis.util.Icons;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class MybatisFileTemplateDescriptorFactory implements FileTemplateGroupDescriptorFactory {
 

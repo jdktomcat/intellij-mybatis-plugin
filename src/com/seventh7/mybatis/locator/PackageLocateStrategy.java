@@ -8,7 +8,7 @@ import com.intellij.psi.PsiPackage;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class PackageLocateStrategy extends LocateStrategy{
 

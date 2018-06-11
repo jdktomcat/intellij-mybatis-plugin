@@ -3,7 +3,7 @@ package com.seventh7.mybatis.generate;
 import java.util.Collection;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class GenerateModel {
 

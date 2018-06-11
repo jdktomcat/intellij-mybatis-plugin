@@ -17,7 +17,7 @@ import java.util.Set;
 
 /**
  * Simple implementation
- * @author yanglin
+ * @author 汤旗
  */
 public class Annotation implements Cloneable{
 

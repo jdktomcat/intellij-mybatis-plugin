@@ -25,7 +25,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.Collection;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class InjectionLineMarkerProvider extends RelatedItemLineMarkerProvider {
 

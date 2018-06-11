@@ -7,7 +7,7 @@ import com.intellij.util.xml.SubTagList;
 import java.util.List;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface Discriminator extends DomElement {
 

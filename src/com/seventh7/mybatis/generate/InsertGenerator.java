@@ -7,7 +7,7 @@ import com.seventh7.mybatis.dom.model.Mapper;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class InsertGenerator extends StatementGenerator{
 

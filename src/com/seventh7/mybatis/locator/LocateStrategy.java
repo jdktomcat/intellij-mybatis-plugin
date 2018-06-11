@@ -5,7 +5,7 @@ import com.intellij.psi.PsiClass;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class LocateStrategy {
 

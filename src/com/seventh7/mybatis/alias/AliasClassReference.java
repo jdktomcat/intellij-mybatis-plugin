@@ -13,7 +13,7 @@ import org.jetbrains.annotations.Nullable;
 import java.util.Collection;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class AliasClassReference extends PsiReferenceBase<XmlAttributeValue> {
 

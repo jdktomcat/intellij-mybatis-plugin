@@ -9,7 +9,7 @@ import com.seventh7.mybatis.dom.converter.AliasConverter;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface Association extends GroupFour, ResultMapGroup, PropertyGroup {
 

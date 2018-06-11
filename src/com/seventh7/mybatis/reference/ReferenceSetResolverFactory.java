@@ -5,7 +5,7 @@ import com.intellij.psi.xml.XmlAttributeValue;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public final class ReferenceSetResolverFactory {
 

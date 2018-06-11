@@ -17,7 +17,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class ContextPsiFieldReference extends PsiReferenceBase<XmlAttributeValue>{
 

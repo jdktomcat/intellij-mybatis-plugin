@@ -21,7 +21,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public final class UiComponentFacade {
 

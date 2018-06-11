@@ -20,7 +20,7 @@ import java.util.List;
 import javax.swing.*;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class SimpleLineMarkerProvider<F extends PsiElement, T> extends MarkerProviderAdaptor {
 

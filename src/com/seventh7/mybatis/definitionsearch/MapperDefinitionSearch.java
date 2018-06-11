@@ -12,7 +12,7 @@ import org.jetbrains.annotations.NotNull;
 
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class MapperDefinitionSearch extends QueryExecutorBase<XmlElement, PsiElement> {
 

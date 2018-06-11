@@ -17,7 +17,7 @@ import com.seventh7.mybatis.dom.model.ResultMap;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public final class MapperBacktrackingUtils {
 

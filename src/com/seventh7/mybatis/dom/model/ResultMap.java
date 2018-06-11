@@ -11,7 +11,7 @@ import com.seventh7.mybatis.dom.converter.ResultMapConverter;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface ResultMap extends GroupFour, IdDomElement{
 

@@ -3,7 +3,7 @@ package com.seventh7.mybatis.dom.model;
 import com.intellij.util.xml.DomElement;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface Bind extends DomElement {
 

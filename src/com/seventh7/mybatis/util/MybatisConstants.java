@@ -3,7 +3,7 @@ package com.seventh7.mybatis.util;
 import com.intellij.psi.util.ReferenceSetBase;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public final class MybatisConstants {
 

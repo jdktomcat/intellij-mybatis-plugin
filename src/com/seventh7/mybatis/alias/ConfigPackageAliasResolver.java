@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class ConfigPackageAliasResolver extends PackageAliasResolver{
 

@@ -7,7 +7,7 @@ import com.intellij.psi.util.PsiTreeUtil;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class GenerateMapperChooser extends JavaFileIntentionChooser{
 

@@ -5,7 +5,7 @@ import com.intellij.codeInsight.template.impl.DefaultLiveTemplatesProvider;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class SqlLiveTemplateProvider implements DefaultLiveTemplatesProvider {
 

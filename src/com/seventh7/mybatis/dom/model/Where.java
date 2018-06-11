@@ -1,7 +1,7 @@
 package com.seventh7.mybatis.dom.model;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface Where extends GroupOne {
 

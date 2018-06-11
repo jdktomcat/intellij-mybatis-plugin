@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class MapperMethodInspection extends MapperInspection{
 

@@ -3,7 +3,7 @@ package com.seventh7.mybatis.setting;
 import javax.swing.*;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class MybatisSettingForm {
 

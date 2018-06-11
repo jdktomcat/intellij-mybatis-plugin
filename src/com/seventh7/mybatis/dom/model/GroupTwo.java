@@ -16,7 +16,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface GroupTwo extends GroupOne, IdDomElement{
 

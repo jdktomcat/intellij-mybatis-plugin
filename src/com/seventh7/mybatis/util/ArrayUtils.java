@@ -6,7 +6,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public final class ArrayUtils {
 

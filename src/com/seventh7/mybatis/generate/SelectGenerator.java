@@ -11,7 +11,7 @@ import com.seventh7.mybatis.dom.model.Select;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class SelectGenerator extends StatementGenerator {
 

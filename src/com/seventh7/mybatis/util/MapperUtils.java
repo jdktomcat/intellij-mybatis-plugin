@@ -35,7 +35,7 @@ import java.util.Properties;
 
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public final class MapperUtils {
 

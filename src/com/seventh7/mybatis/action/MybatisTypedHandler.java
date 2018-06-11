@@ -14,7 +14,7 @@ import com.seventh7.mybatis.util.DomUtils;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class MybatisTypedHandler extends TypedHandlerDelegate {
 

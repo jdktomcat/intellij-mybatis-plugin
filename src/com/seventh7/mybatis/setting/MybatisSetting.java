@@ -17,7 +17,7 @@ import java.util.Set;
 import static com.seventh7.mybatis.generate.StatementGenerator.*;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 @State(
     name = "MybatisSettings",

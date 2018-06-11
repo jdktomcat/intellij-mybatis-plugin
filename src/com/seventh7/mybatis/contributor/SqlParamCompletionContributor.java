@@ -16,7 +16,7 @@ import com.seventh7.mybatis.util.MapperUtils;
 
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class SqlParamCompletionContributor extends CompletionContributor {
 

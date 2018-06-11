@@ -21,7 +21,7 @@ import java.util.Collections;
 import java.util.Set;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class AnnotationAliasResolver extends AliasResolver {
 

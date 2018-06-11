@@ -13,7 +13,7 @@ import org.jetbrains.annotations.Nullable;
 import java.util.Set;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class AliasResolver {
 

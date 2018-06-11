@@ -6,7 +6,7 @@ import com.intellij.util.PlatformIcons;
 import javax.swing.*;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface Icons {
 

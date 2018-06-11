@@ -13,7 +13,7 @@ import com.seventh7.mybatis.service.AnnotationService;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class GenerateParamAnnotationIntention extends GenericIntention {
 

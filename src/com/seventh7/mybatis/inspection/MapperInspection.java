@@ -4,7 +4,7 @@ import com.intellij.codeInspection.BaseJavaLocalInspectionTool;
 import com.intellij.codeInspection.ProblemDescriptor;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class MapperInspection extends BaseJavaLocalInspectionTool {
 

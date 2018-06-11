@@ -19,7 +19,7 @@ import static com.seventh7.mybatis.generate.StatementGenerator.SELECT_GENERATOR;
 import static com.seventh7.mybatis.generate.StatementGenerator.UPDATE_GENERATOR;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class MybatisConfigurable implements SearchableConfigurable {
 

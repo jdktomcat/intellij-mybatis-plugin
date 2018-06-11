@@ -7,7 +7,7 @@ import com.intellij.util.xml.NameValue;
 import com.intellij.util.xml.Required;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface IdDomElement extends DomElement{
 

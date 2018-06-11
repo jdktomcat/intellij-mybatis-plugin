@@ -12,7 +12,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface ParameterMap extends IdDomElement{
 

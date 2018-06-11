@@ -10,7 +10,7 @@ import org.jetbrains.annotations.NonNls;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class DaoMethodConverter extends ConverterAdaptor<PsiMethod> {
 

@@ -14,7 +14,7 @@ import com.seventh7.mybatis.util.JavaUtils;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public abstract class JavaFileIntentionChooser implements IntentionChooser {
 

@@ -16,7 +16,7 @@ import java.io.IOException;
 import java.util.Collection;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public class MapperRefactoringProvider implements RefactoringElementListenerProvider {
 

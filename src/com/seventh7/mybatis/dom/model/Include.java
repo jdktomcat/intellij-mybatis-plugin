@@ -8,7 +8,7 @@ import com.intellij.util.xml.GenericAttributeValue;
 import com.seventh7.mybatis.dom.converter.SqlConverter;
 
 /**
- * @author yanglin
+ * @author 汤旗
  */
 public interface Include extends DomElement {
 
